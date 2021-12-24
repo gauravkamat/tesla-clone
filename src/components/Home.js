@@ -8,49 +8,49 @@ function Home() {
             <Section 
                 title="Model S"
                 description="Order online for Touchless Delivery"
-                backgroundImg="model-s.jpg"
+                backgroundImg="model-s.JPG"
                 leftBtnText="Custom order"
                 rightBtnText="Existing inventory"
             />
             <Section 
                 title="Model Y"
                 description="Order online for Touchless Delivery"
-                backgroundImg="model-y.jpg"
+                backgroundImg="model-y.JPG"
                 leftBtnText="Custom order"
                 rightBtnText="Existing inventory"
             />
             <Section 
                 title="Model 3"
                 description="Order online for Touchless Delivery"
-                backgroundImg="model-3.jpg"
+                backgroundImg="model-3.JPG"
                 leftBtnText="Custom order"
                 rightBtnText="Existing inventory"
             />
             <Section 
                 title="Model X"
                 description="Order online for Touchless Delivery"
-                backgroundImg="model-x.jpg"
+                backgroundImg="model-x.JPG"
                 leftBtnText="Custom order"
                 rightBtnText="Existing inventory"
             />
             <Section 
                 title="Lowest Cost Solar Panels in America"
                 description="Money back guarentee"
-                backgroundImg="solar-panel.jpg"
+                backgroundImg="solar-panel.JPG"
                 leftBtnText="Order now"
                 rightBtnText="Learn more"
             />
             <Section 
                 title="Solar for New Roofs"
                 description="Solar Roof Costs less Than a New Roof"
-                backgroundImg="solar-roof.jpg"
+                backgroundImg="solar-roof.JPG"
                 leftBtnText="Order now"
                 rightBtnText="Learn more"
             />
             <Section 
                 title="Accessories"
                 description="Order online for Touchless Delivery"
-                backgroundImg="accessories.jpg"
+                backgroundImg="accessories.JPG"
                 leftBtnText="Shop now"
                
             />
